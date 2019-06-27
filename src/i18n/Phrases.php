@@ -1,5 +1,7 @@
 <?php namespace Console\i18n;
-
+/**
+* Author: Gon <gonzaloventura@outlook.com>
+*/
 class Phrases {
     public static $phrases = array(
         "%s ha tirado una macro de recruit pero le han convencido de que deje la hermandad para irse a Method.",

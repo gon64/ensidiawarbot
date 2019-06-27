@@ -7,8 +7,8 @@ use Console\i18n\Members;
 use Console\i18n\Phrases;
 use Console\Command;
 /**
- * Author: Chidume Nnamdi <kurtwanger40@gmail.com>
- */
+* Author: Gon <gonzaloventura@outlook.com>
+*/
 class EnsidiaCommand extends Command
 {
     
@@ -19,7 +19,6 @@ class EnsidiaCommand extends Command
         $this -> setName('war')
             -> setDescription('Comienzan las Ensidia Wars')
             -> setHelp('Este comando hará que el roster de Ensidia se mate hasta que solo quede el mejor')
-            //-> addArgument('username', InputArgument::REQUIRED, 'The username of the user.');
             ;
 
         

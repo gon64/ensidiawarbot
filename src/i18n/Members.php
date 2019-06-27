@@ -1,5 +1,7 @@
 <?php namespace Console\i18n;
-
+/**
+* Author: Gon <gonzaloventura@outlook.com>
+*/
 class Members {
     public static $roster = array(
         "Criptä",
