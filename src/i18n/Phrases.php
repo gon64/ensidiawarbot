@@ -8,12 +8,12 @@ class Phrases {
         "%s ha pedido un duelo de mascotas contra %s.",
         "%s ha sido derrotado en un duelo por %s.",
         "%s ha hecho /gquit.",
-        "%s ha sido asesinato en la hermandad de los camorristas.",
+        "%s ha sido asesinado en la hermandad de los camorristas.",
         "%s se ha perdido en el valle de Alteraac.",
-        "%s ha sido asesinato por un grupo de 20 hordas.",
+        "%s ha sido asesinado por un grupo de 20 hordas.",
         "%s no tenía puesta la piedra de alma.",
         "%s ha sido aplastado por Grong.",
-        "%s ha desaparecido en el tiempo y el espacio al atraveras un portal de brujo. Ruinah, procura prestar más antención la próxima vez.",
+        "%s ha desaparecido en el tiempo y el espacio al atravesar un portal de brujo. Ruinah, procura prestar más antención la próxima vez.",
         "%s ha sido secuestrado por los Zandalari. Ahora es parte de la horda y es considerado un Dios.",
         "%s ha sucumbido ante los susurros de N'Zoth.",
         "%s está ahora en un lugar mejor junto a Bwomsamdi.",
@@ -57,6 +57,6 @@ class Phrases {
         "%s ha dejado el WoW en pos de una vida mejor... En realidad se conforma con cualquier tipo de vida.",
         "%s ha derrotado a Jaina en mítico y ya no encuentra sentido en seguir jugando.",
         "%s fue el viernes a una cata de vino en Dalaran, y no se sabe nada de él desde entonces.",
-        "ahora %s sólo hace club del logro."
+        "Ahora %s sólo hace club del logro."
     );
 }
